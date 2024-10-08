@@ -1,4 +1,11 @@
-## Hi there 👋
+## Ayoo! 👋 Hope all is well! 
+
+- 🔭 I’m currently turning data into insights
+- 🌱 I’m currently learning more about deep learning
+- 💬 Ask me about machine learning, statistics, Python, & neuroscience
+- 📫 How to reach me: [email](migueldiazacevedo@gmail.com), [LinkedIn](www.linkedin.com/in/migueldiazacevedo)
+- ⚡ Fun fact: I co-own a [coffee shop and roasting company](https://www.olascoffeeco.com/) in Brooklyn, NYC 
+
 
 <!--
 **migueldiazacevedo/migueldiazacevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
