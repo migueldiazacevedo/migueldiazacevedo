@@ -2,7 +2,7 @@
 
 ### A bit about me: 
 
-- 🧠 **Neuroscientist-turned-Data-Scientist**: Did neuroscience things in academic settings, now focused on transforming data into actionalbe insights, domain-agnostic. Consider me a data bounty hunter.
+- 🧠 **Neuroscientist-turned-Data-Scientist**: Consider me a data bounty hunter. Did neuroscience things in academic settings, now focused on transforming data into actionable insights, domain-agnostic. 
   
 - 🔭 **Current Focus**: Deepening my knowledge of **machine learning** and diving into **deep learning** techniques.
   
@@ -30,5 +30,5 @@
 
 
   and a bunch of others!
-- 📫 Contact Me: [email](mailto:migueldiazacevedo@gmail.com) or [LinkedIn](www.linkedin.com/in/migueldiazacevedo)
+- 📫 Contact Me: [email](mailto:migueldiazacevedo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/migueldiazacevedo/)
 - ⚡ Fun fact - I co-own a [coffee shop and roasting company](https://www.olascoffeeco.com/) in Brooklyn, NYC ☕. Always up for coffee and data talk!
