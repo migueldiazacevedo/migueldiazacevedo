@@ -6,7 +6,7 @@
   
 - 🔭 **Current Focus**: Deepening my knowledge of **machine learning** and diving into **deep learning** techniques.
   
-- 🌱 **Learning Goals**: Expanding my expertise in areas like neural networks, computer vision, and model interpretability.
+- 🌱 **Learning Goals**: Expanding my expertise in areas like neural networks, computer vision, RNNs/NLP/transformers, and model interpretability.
 
 - 💬 **Let's Chat About**: Machine learning, statistics, Python, neuroscience, or anything data-related.
 
@@ -16,6 +16,7 @@
   [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
   [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
   [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
   [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
   [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
