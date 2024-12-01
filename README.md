@@ -2,9 +2,9 @@
 
 ### A bit about me: 
 
-- 🧠 **Neuroscientist-turned-Data-Scientist**: Consider me a data bounty hunter. Did neuroscience things in academic settings, now focused on transforming data into actionable insights, domain-agnostic. 
+- 🧠 **Data Scientist with a Neuroscience Background**: My focus these days is transforming data into actionable insights, full stop, domain-agnostic. For over ten years, I pursued neuroscience in academic settings. I still love neuroscience and hope to contribute to the field through my life's work. 
   
-- 🔭 **Current Focus**: Deepening my knowledge of **machine learning** and diving into **deep learning** techniques.
+- 🔭 **Current Focus**: Deepening my knowledge of **machine learning** and diving into **deep learning** techniques. Currently focused on **PyTorch**, **Language AI**, and **Computer Vision**
   
 - 🌱 **Learning Goals**: Expanding my expertise in areas like neural networks, computer vision, RNNs/NLP/transformers, and model interpretability.
 
