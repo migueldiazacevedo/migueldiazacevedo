@@ -2,9 +2,9 @@
 
 ### A bit about me: 
 
-- 🧠 **Data Scientist with a Neuroscience Background**: My focus these days is transforming data into actionable insights, full stop, domain-agnostic. For over ten years, I pursued neuroscience in academic settings. I still love neuroscience and hope to contribute to the field through my life's work. 
+- 🧠 **Data Scientist with a Neuroscience Background**: My focus these days is transforming data into actionable insights, full stop. For over ten years, I pursued neuroscience in academic settings. I still love neuroscience and hope to contribute to the field through my life's work. That said, I'm a data scientist who wants to rigorously follow analyses wherever they logically go. I want to find meaning in the mess and generate predictive models, domain-agnostic. Let's grow our collective knowledge through data!  
   
-- 🔭 **Current Focus**: Deepening my knowledge of **machine learning** and diving into **deep learning** techniques. Currently focused on **PyTorch**, **Language AI**, and **Computer Vision**
+- 🔭 **Current Focus**: Deepening my knowledge of **machine learning** and diving into **deep learning** techniques. Currently focused on: **PyTorch**, **Language AI**, and **Computer Vision**
   
 - 🌱 **Learning Goals**: Expanding my expertise in areas like neural networks, computer vision, RNNs/NLP/transformers, and model interpretability.
 
@@ -32,4 +32,4 @@
 
   and a bunch of others!
 - 📫 Contact Me: [email](mailto:migueldiazacevedo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/migueldiazacevedo/)
-- ⚡ Fun fact - I co-own a [coffee shop and roasting company](https://www.olascoffeeco.com/) in Brooklyn, NYC ☕. Always up for coffee and data talk!
+- ⚡ Fun fact - I am an investor in a [coffee shop and roasting company](https://www.olascoffeeco.com/) in Brooklyn, NYC ☕. Always up for coffee and data talk!
